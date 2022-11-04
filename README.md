@@ -9,5 +9,11 @@ Estamos aprendiendo a trabajar con **GIT** 😄
 
 ## Flujo de trabajo de GIT
 
-Para añadir un fichero en nuestro repositorio remoto de [GitHub](https://github.com/)
+Para añadir un fichero en nuestro repositorio remoto de [GitHub](https://github.com/) tenemos que seguir los siguientes pasos:
 
+```
+git add fichero
+git commit -m "nombre del commit"
+git push
+```
+[Esto es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
