@@ -16,4 +16,4 @@ git add fichero
 git commit -m "nombre del commit"
 git push
 ```
-[Esto es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+![Esto es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
